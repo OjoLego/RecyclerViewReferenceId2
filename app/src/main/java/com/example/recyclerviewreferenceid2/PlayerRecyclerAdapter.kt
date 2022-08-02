@@ -47,7 +47,7 @@ class PlayerRecyclerAdapter: RecyclerView.Adapter<RecyclerView.ViewHolder>(){
 
         fun bind(player: Player){
             playerName.setText(player.name)
-            playerNumber.setText(player.number)
+            playerNumber.setText(player.number.toString())
             playerPosition.setText(player.position)
 
             val requestOptions = RequestOptions()

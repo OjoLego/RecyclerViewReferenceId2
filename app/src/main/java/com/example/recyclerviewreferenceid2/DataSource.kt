@@ -12,67 +12,67 @@ class DataSource {
                 Player("Bukayo Saka",
                     7,
                     "RW",
-                    "Sally")
+                    "https://raw.githubusercontent.com/mitchtabian/Blog-Images/master/digital_ocean.png")
             )
             list.add(
                 Player("Bukayo Saka",
                     7,
                     "RW",
-                    "Sally")
+                    "https://s.hs-data.com/bilder/spieler/gross/414034.jpg?fallback=png")
             )
             list.add(
                 Player("Bukayo Saka",
                     7,
                     "RW",
-                    "Sally")
+                    "https://s.hs-data.com/bilder/spieler/gross/414034.jpg?fallback=png")
             )
             list.add(
                 Player("Bukayo Saka",
                     7,
                     "RW",
-                    "Sally")
+                    "https://s.hs-data.com/bilder/spieler/gross/414034.jpg?fallback=png")
             )
             list.add(
                 Player("Bukayo Saka",
                     7,
                     "RW",
-                    "Sally")
+                    "https://s.hs-data.com/bilder/spieler/gross/414034.jpg?fallback=png")
             )
             list.add(
                 Player("Bukayo Saka",
                     7,
                     "RW",
-                    "Sally")
+                    "https://s.hs-data.com/bilder/spieler/gross/414034.jpg?fallback=png")
             )
             list.add(
                 Player("Bukayo Saka",
                     7,
                     "RW",
-                    "Sally")
+                    "https://s.hs-data.com/bilder/spieler/gross/414034.jpg?fallback=png")
             )
             list.add(
                 Player("Bukayo Saka",
                     7,
                     "RW",
-                    "Sally")
+                    "https://s.hs-data.com/bilder/spieler/gross/414034.jpg?fallback=png")
             )
             list.add(
                 Player("Bukayo Saka",
                     7,
                     "RW",
-                    "Sally")
+                    "https://s.hs-data.com/bilder/spieler/gross/414034.jpg?fallback=png")
             )
             list.add(
                 Player("Bukayo Saka",
                     7,
                     "RW",
-                    "Sally")
+                    "https://s.hs-data.com/bilder/spieler/gross/414034.jpg?fallback=png")
             )
             list.add(
                 Player("Bukayo Saka",
                     7,
                     "RW",
-                    "Sally")
+                    "https://s.hs-data.com/bilder/spieler/gross/414034.jpg?fallback=png")
             )
 
             return list
